@@ -1,0 +1,16 @@
+
+body{
+background-color: #333;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.close{
+    color: red;
+    font-size: 30px;
+    margin: 10px;
+}
